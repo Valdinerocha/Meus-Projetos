@@ -1,3 +1,4 @@
-#include
-int main()
+#include <stdio.h>
+int main() {
 printf("Olá mundo!");
+}
